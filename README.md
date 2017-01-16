@@ -33,4 +33,7 @@ this is about actualy geting involeved. i dont want any money donatinons, if you
 ## Devices to test it on
 TBD
 
+## Spell checking
+any corrections are appriciated. i dont make these mistakes on porpes, i am just dislexic.
+
 to be continued...
