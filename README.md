@@ -19,6 +19,32 @@ both have to be easyly configurable, and even possible to turn off for privacy r
 so that events can be assioated with a person or a company (e.g. display a name instead of a nummber for an incomming call)
 and so that it can be synced with other devices or just other applications (e.g. inporting contacts from thunderbird, exporting contacts to pidgin, a.s.o.)
 
+## utils
+
+### mobilectr
+a comand-line interface to perform all actions the deamon is capebal off
+
+### X utils
+varios utils for X, including:
+
+- a status-icon dockable application.
+- a diling pad
+- contact browser
+- contact editor
+- event browser (by cathegory e.g. call-history)
+
+### importer/exporter
+at least one importer/exporter as an example canidates are:
+
+- vcard import/export
+- ical import/export
+
+### sync with other applications
+at least one importer/exporter as an example canidates are:
+
+- pidgin: import messages as events, buddies as contacts, extend existing buddies with additional information (e.g. phone nummber)
+- thunderbird: emails as events, sync thunderbird- and mobiled- contacts
+
 # Future goals
 anything is posible, here are a few ideas
 
